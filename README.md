@@ -1,6 +1,4 @@
-# Project: Mask Detection and Face Recognition
-
-## Mask Detection on Static Images
+# Project: Face mask detection system
 
 ### Project Description
 
