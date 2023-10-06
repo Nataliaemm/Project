@@ -6,14 +6,9 @@
 
 This project, developed in 2021 during my master's studies, uses OpenCV and TensorFlow for mask detection on static images, showcasing skills in Deep Learning and Computer Vision.
 
-### Update (Updated Year XXXX)
+### Update (Updated Year 2023)
 
 The project has been updated to the latest library versions. The Jupyter Notebook here serves as a CV presentation for mask detection on static images.
-
-#### Dependencies
-
-- OpenCV (version X.X)
-- TensorFlow (version X.X)
 
 #### Notes
 
