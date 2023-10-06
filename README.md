@@ -16,8 +16,8 @@ For brevity, necessary files and dependencies are not included. They will be ava
 
 **Note:** Refer to the [new repository](link_do_nowego_repozytorium) for ongoing development and access to all required files.
 
-## Details
+### Details
 
-### Face Recognition and Blob Detection
+#### Face Recognition and Blob Detection
 
 Expanding on the project, we implement face recognition and blob detection using OpenCV and pretrained models. Testing will feature the dean's office staff images from the university's website.
