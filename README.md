@@ -17,9 +17,8 @@ For brevity, necessary files and dependencies are not included. They will be ava
 **Note:** Refer to the [new repository](https://github.com/Nataliaemm/In_progress) for ongoing development and access to all required files.
 
 - **Frameworks and Libraries Used:**
-  - Caffe (for face detection)
   - Matplotlib
   - Numpy
   - OpenCV
   - Scikit-learn
-  - TensorFlow (with Keras)
+  - TensorFlow (with Keras and MobileNetV2)
