@@ -14,7 +14,7 @@ The project has been updated to the latest library versions.
 
 For brevity, necessary files and dependencies are not included. They will be available in a separate repository.
 
-**Note:** Refer to the [new repository](link_do_nowego_repozytorium) for ongoing development and access to all required files.
+**Note:** Refer to the [new repository](https://github.com/Nataliaemm/In_progress) for ongoing development and access to all required files.
 
 ### Details
 
